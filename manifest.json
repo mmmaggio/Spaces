@@ -33,7 +33,7 @@
     },
     "web_accessible_resources": [],
     "incognito": "split",
-    "manifest_version": 2,
+    "manifest_version": 3,
     "minimum_chrome_version": "35",
 
     "commands": {
