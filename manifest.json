@@ -11,7 +11,7 @@
         "contextMenus"
     ],
     "background": {
-        "scripts": [
+        "service_worker": [
             "js/db.js",
             "js/dbService.js",
             "js/spacesService.js",
